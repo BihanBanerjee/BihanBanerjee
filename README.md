@@ -1,86 +1,127 @@
-<h1 align="center">Hi 👋, I'm Bihan Banerjee</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+# Hey, I'm Bihan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BihanBanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="BihanBanerjee" /> </p>
+Full-stack AI engineer focused on building agentic systems. Currently working on multi-agent orchestration, memory, and RAG — and building [re-collect](https://github.com/BihanBanerjee/re-collect), a memory layer for AI agents. I work across Python (FastAPI, LangGraph) and TypeScript (Node.js, React, Next.js), and ship everything to prod.
 
+Currently at **100xSchool Super30** (Greater Noida, India) — intensive full-stack bootcamp.
 
-<p align="left"> <a href="https://twitter.com/Im_Bihan" target="blank"><img src="https://img.shields.io/twitter/follow/Im_Bihan?logo=twitter&style=for-the-badge" alt="BihanBanerjee" /></a> </p>
+---
 
-- 🔭 Just finished development of <a href="" target="_blank">Food delivery App</a>
+### Featured Projects
 
+#### [Buildable](https://github.com/BihanBanerjee/Buildable) — AI-powered web app builder &nbsp; [Live →](https://buildable.bihanbanerjee.com)
 
-- 🌱 I’m currently learning **React**
+`Python` `FastAPI` `LangGraph` `Next.js` `React` `TypeScript` `PostgreSQL` `E2B` `Cloudflare R2` `Docker` `Terraform` `Tailwind CSS`
 
-- 💬 Ask me about **MERN, JavaScript, Python, ComputerVision, Pytorch, Tensorflow, Deep Learning**
+> Describe what you want in plain English → a 6-node multi-agent pipeline (planner → scaffold → builder → checkpoint → fixer → app_start) generates production-ready React apps in an isolated sandbox. Iterative chat refinement with surgical edits, live preview, one-click ZIP export. BYOK via OpenRouter.
 
-- 📫 How to reach me **banerjeebihan456@gmail.com**
+<!-- Replace with an actual screenshot: take a screenshot of buildable.bihanbanerjee.com and save as assets/buildable-preview.png -->
+<!-- ![Buildable Preview](assets/buildable-preview.png) -->
 
-- ⚡ Fun fact **Coding is just like Gaming every step is a level which offer different challenge.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Im_Bihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Im_Bihan" height="30" width="40" /></a>
+#### [Velox Trading](https://github.com/BihanBanerjee/Velox-Trading) — Real-time leveraged crypto trading platform &nbsp; [Live →](https://app.velox.bihanbanerjee.com)
+
+`TypeScript` `Next.js` `React` `Bun` `Express` `WebSocket` `Redis` `PostgreSQL` `TimescaleDB` `Prisma` `Docker` `Terraform` `Turborepo`
+
+> 7 microservices communicating via Redis Streams. In-memory liquidation engine checking every price tick across all open positions. BigInt arithmetic (10^8 scale) for zero floating-point errors. Live Binance price feeds, candlestick aggregation across 7 timeframes, snapshot-based crash recovery with event replay. Up to 100x leverage on BTC/ETH/SOL perpetuals.
+
+<!-- Replace with an actual screenshot: take a screenshot of app.velox.bihanbanerjee.com and save as assets/velox-preview.png -->
+<!-- ![Velox Trading Preview](assets/velox-preview.png) -->
+
+---
+
+### Currently Building
+
+🧠 **[re-collect](https://github.com/BihanBanerjee/re-collect)** — A memory layer for AI agents
+`Python`
+> Persistent, structured memory that lets AI agents recall context across sessions.
+
+🛠️ **[craftsman](https://github.com/BihanBanerjee/craftsman)** — AI-powered coding tool
+`Python`
+> A developer tool that leverages LLMs to assist with code generation, editing, and reasoning across codebases.
+
+---
+
+### Skills
+
+`Agentic AI` `Multi-agent Orchestration` `RAG` `Memory Systems` `Tool Use` `Prompt Engineering` `LangChain` `LangGraph` `Pydantic` `FastAPI` `SQLAlchemy` `Microservices` `WebSockets` `Redis Streams` `Node.js` `Express` `React` `Prisma` `Zod` `JWT` `CI/CD` `Machine Learning` `Deep Learning` `PyTorch`
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat&logo=zod&logoColor=white)
+![bcryptjs](https://img.shields.io/badge/bcryptjs-003A70?style=flat)
+
+**AI & LLM**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BihanBanerjee&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=BihanBanerjee&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
+---
 
-###
+### Connect
 
-<div align="left">
-  <a href="https://discord.com/users/:iambihan"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=banerjeebihan456@gmail.com&su=Hire me.&body=Hey'&bcc=banerjeebihan456@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/bihan-banerjee-1a7972189/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://twitter.com/Im_Bihan"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
-</div>
+[![GitHub](https://img.shields.io/badge/@bihanbanerjee-181717?style=flat&logo=github&logoColor=white)](https://github.com/bihanbanerjee)
+[![LinkedIn](https://img.shields.io/badge/bihan--banerjee-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bihan-banerjee-1a7972189/)
+[![Twitter](https://img.shields.io/badge/@Im__Bihan-000000?style=flat&logo=x&logoColor=white)](https://x.com/Im_Bihan)
+[![Instagram](https://img.shields.io/badge/@bihanbanerjee-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/bihanbanerjee)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:banerjeebihan456@gmail.com)
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+<details>
+<summary>📄 Published Research</summary>
+<br>
 
-###
+**Monkeypox detection from skin lesion images using an amalgamation of CNN models aided with Beta function-based normalization scheme**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BihanBanerjee&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+Pramanik R., **Banerjee B.**, Efimenko G., Kaplun D., Sarkar R. — *PLOS ONE*, 2023
 
-###
+[Paper](https://doi.org/10.1371/journal.pone.0281815) · [Code](https://github.com/BihanBanerjee/MonkeyPox)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BihanBanerjee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BihanBanerjee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BihanBanerjee" alt="BihanBanerjee" /></a></p>
+**MSENet: Mean and standard deviation based ensemble network for cervical cancer detection**
 
+Pramanik R., **Banerjee B.**, Sarkar R. — *Engineering Applications of Artificial Intelligence*, Elsevier, 2023
 
+[Paper](https://doi.org/10.1016/j.engappai.2023.106336) · [Code](https://github.com/rishavpramanik/msenet)
+
+</details>
