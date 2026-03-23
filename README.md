@@ -116,6 +116,8 @@ Currently at **100xSchool Super30** (Greater Noida, India) — intensive full-st
 <summary>📄 Published Research</summary>
 <br>
 
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4035--8739-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4035-8739)
+
 **Monkeypox detection from skin lesion images using an amalgamation of CNN models aided with Beta function-based normalization scheme**
 
 Pramanik R., **Banerjee B.**, Efimenko G., Kaplun D., Sarkar R. — *PLOS ONE*, 2023
