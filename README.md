@@ -1,8 +1,12 @@
 # Hey, I'm Bihan 👋
 
-Full-stack AI engineer focused on building agentic systems. Currently working on multi-agent orchestration, memory, and RAG — and building [re-collect](https://github.com/BihanBanerjee/re-collect), a memory layer for AI agents. I work across Python (FastAPI, LangGraph) and TypeScript (Node.js, React, Next.js), and ship everything to prod.
+Full-stack AI engineer focused on building agentic systems.
 
-Currently at **100xSchool Super30** (Greater Noida, India) — intensive full-stack bootcamp.
+Currently working on multi-agent orchestration, memory, and RAG.
+
+I work across Python (FastAPI, LangGraph) and TypeScript (Node.js, React, Next.js), and ship everything to prod.
+
+Currently at **100xSchool Super30** (Greater Noida, India) — intensive full-stack bootcamp focused on AI and Web3.
 
 ---
 
