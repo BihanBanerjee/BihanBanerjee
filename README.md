@@ -107,7 +107,7 @@ Currently at **100xSchool Super30** (Greater Noida, India) — intensive full-st
 [![GitHub](https://img.shields.io/badge/@bihanbanerjee-181717?style=flat&logo=github&logoColor=white)](https://github.com/bihanbanerjee)
 [![LinkedIn](https://img.shields.io/badge/bihan--banerjee-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bihan-banerjee-1a7972189/)
 [![Twitter](https://img.shields.io/badge/@Im__Bihan-000000?style=flat&logo=x&logoColor=white)](https://x.com/Im_Bihan)
-[![Instagram](https://img.shields.io/badge/@bihanbanerjee-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/bihanbanerjee)
+[![Instagram](https://img.shields.io/badge/@banerjeebihan-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/banerjeebihan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:banerjeebihan456@gmail.com)
 
 ---
