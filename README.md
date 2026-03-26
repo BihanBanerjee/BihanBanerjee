@@ -94,7 +94,7 @@ Currently at **100xSchool Super30** (Greater Noida, India) — intensive full-st
 ### GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BihanBanerjee&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BihanBanerjee&theme=default" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=BihanBanerjee&hide_border=true" />
 </p>
 
