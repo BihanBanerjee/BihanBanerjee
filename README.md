@@ -18,8 +18,7 @@ Currently at **100xSchool Super30** (Greater Noida, India) — intensive full-st
 
 > Describe what you want in plain English → a 2-agent LangGraph system (Sonnet 4.5 for builds, o4-mini for edits) generates production-ready React apps in isolated E2B sandboxes. Guardrail classifies intent, prompt enhancer expands vague ideas, assembler merges with a locked base template, and a validation loop auto-fixes build errors. Iterative chat refinement, live preview, one-click deploy to Cloudflare Pages. BYOK via OpenRouter.
 
-<!-- Replace with an actual screenshot: take a screenshot of buildable.bihanbanerjee.com and save as assets/buildable-preview.png -->
-<!-- ![Buildable Preview](assets/buildable-preview.png) -->
+![Buildable Preview](assets/buildable-preview.png)
 
 ---
 
