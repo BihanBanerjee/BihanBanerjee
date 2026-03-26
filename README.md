@@ -28,8 +28,7 @@ Currently at **100xSchool Super30** (Greater Noida, India) — intensive full-st
 
 > 7 microservices communicating via Redis Streams. In-memory liquidation engine checking every price tick across all open positions. BigInt arithmetic (10^8 scale) for zero floating-point errors. Live Binance price feeds, candlestick aggregation across 7 timeframes, snapshot-based crash recovery with event replay. Up to 100x leverage on BTC/ETH/SOL perpetuals.
 
-<!-- Replace with an actual screenshot: take a screenshot of app.velox.bihanbanerjee.com and save as assets/velox-preview.png -->
-<!-- ![Velox Trading Preview](assets/velox-preview.png) -->
+![Velox Trading Preview](assets/velox-preview.png)
 
 ---
 
